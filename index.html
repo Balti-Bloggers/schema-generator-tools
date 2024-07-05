@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Schema Markup Generator</title>
+</head>
+<body>
+    <h1>Schema Markup Generator</h1>
+    <form action="generate_schema.php" method="post">
+        <label for="type">Schema Type:</label>
+        <select name="type" id="type">
+            <option value="NewsArticle">News Article</option>
+            <option value="BlogPosting">Blog Posting</option>
+        </select><br><br>
+        
+        <label for="url">URL:</label>
+        <input type="text" id="url" name="url"><br><br>
+        
+        <label for="headline">Headline:</label>
+        <input type="text" id="headline" name="headline"><br><br>
+        
+        <label for="image">Image URL:</label>
+        <input type="text" id="image" name="image"><br><br>
+        
+        <label for="author">Author:</label>
+        <input type="text" id="author" name="author"><br><br>
+        
+        <label for="authorUrl">Author URL:</label>
+        <input type="text" id="authorUrl" name="authorUrl"><br><br>
+        
+        <label for="publisher">Publisher:</label>
+        <input type="text" id="publisher" name="publisher"><br><br>
+        
+        <label for="publisherLogo">Publisher Logo URL:</label>
+        <input type="text" id="publisherLogo" name="publisherLogo"><br><br>
+        
+        <label for="publishDate">Published Date:</label>
+        <input type="date" id="publishDate" name="publishDate"><br><br>
+        
+        <label for="modifiedDate">Last Modified Date:</label>
+        <input type="date" id="modifiedDate" name="modifiedDate"><br><br>
+        
+        <button type="submit">Generate Schema</button>
+    </form>
+</body>
+</html>
