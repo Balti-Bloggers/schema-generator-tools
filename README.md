@@ -36,3 +36,11 @@ Specify the license under which your tool is released. This could be MIT, GPL, o
 
 10. Contact Information
 Provide your contact information or ways to reach you if users have questions or want to collaborate on further developing the tool.
+<h4>Balti Bloggers Official Social Media Handles</h4>
+<ul>
+  <li><a href="https://www.facebook.com/baltibloggers/">Facebook</a>:</li>
+  <li><a href="https://www.instagram.com/baltibloggers">Instagram</a>:</li>
+  <li><a href="https://x.com/baltibloggers">X</a>:</li>
+  <li><a href="https://ae.linkedin.com/company/balti-bloggers">LiniedIn</a>:</li>
+  <li><a href="https://www.youtube.com/@baltibloggers">YouTube</a>:</li>
+</ul>
